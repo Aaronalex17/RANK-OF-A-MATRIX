@@ -18,7 +18,8 @@ print(solution)
 ```
 
 ## Output:
-![Screenshot 2024-12-04 210315](https://github.com/user-attachments/assets/87127f14-0f12-4ed1-9786-7ef16d0e80f1)
+![Screenshot (43)](https://github.com/user-attachments/assets/e07821fa-627e-493d-9347-dc5fc366ef28)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
